@@ -30,3 +30,7 @@ Ever felt overwhelmed by the chaos of files cluttering your desktop? Fear no mor
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/file-organizer.git
+2. **Navigate to the Directory**
+   ```bash
+    cd file-organizer
+
