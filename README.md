@@ -42,6 +42,46 @@ Ever felt overwhelmed by the chaos of files cluttering your desktop? Fear no mor
 - save the file at location where you want Organized files.
 - Run the Python File.
 
+---
+
+# 📂 Supported File Types
+
+- **HTML**: `.html5`, `.html`, `.htm`, `.xhtml`
+- **Images**: `.jpeg`, `.jpg`, `.tiff`, `.gif`, `.bmp`, `.png`, `.bpg`, `.svg`, `.heif`, `.psd`
+- **Videos**: `.avi`, `.flv`, `.wmv`, `.mov`, `.mp4`, `.webm`, `.vob`, `.mng`, `.qt`, `.mpg`, `.mpeg`, `.3gp`
+- **Documents**: `.oxps`, `.epub`, `.pages`, `.docx`, `.doc`, `.fdf`, `.ods`, `.odt`, `.pwi`, `.xsn`, `.xps`, `.dotx`, `.docm`, `.dox`, `.rvg`, `.rtf`, `.rtfd`, `.wpd`, `.xls`, `.xlsx`, `.ppt`, `.pptx`
+- **Archives**: `.a`, `.ar`, `.cpio`, `.iso`, `.tar`, `.gz`, `.rz`, `.7z`, `.dmg`, `.rar`, `.xar`, `.zip`
+- **Audio**: `.aac`, `.aa`, `.dvf`, `.m4a`, `.m4b`, `.m4p`, `.mp3`, `.msv`, `.ogg`, `.oga`, `.raw`, `.vox`, `.wav`, `.wma`
+- **Plaintext**: `.txt`, `.in`, `.out`
+- **PDF**: `.pdf`
+- **Python**: `.py`
+- **XML**: `.xml`
+- **Executable**: `.exe`
+- **Shell Script**: `.sh`
+
+# 👩‍💻 How to Use
+
+1. **Run the Script**: Once you run the script, it will scan the current directory for files.
+2. **Sit Back and Relax**: Watch as your files are neatly sorted into folders.
+3. **Enjoy the Clean Space**: Open your organized folders and enjoy the tidiness!
+
+# 🎯 Customization
+
+Want to add more file types or customize folders? Simply edit the `fileformat` dictionary in the `organizer.py` script to fit your needs.
+
+# 🙌 Contributing
+
+We welcome contributions to make this project even better! Feel free to fork the repository and create pull requests.
+
+# 📜 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+# 🚀 Let's Get Started!
+
+Say goodbye to the mess and hello to a well-organized file system. Run the **File Organizer** today and transform your digital space! 🧹✨
+
+
   
 
 
