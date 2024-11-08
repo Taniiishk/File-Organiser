@@ -33,4 +33,10 @@ Ever felt overwhelmed by the chaos of files cluttering your desktop? Fear no mor
 2. **Navigate to the Directory**
    ```bash
     cd file-organizer
+3.  **Run the Script**
+   ```bash
+   python organizer.py
+
+
+###
 
