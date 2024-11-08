@@ -29,14 +29,19 @@ Ever felt overwhelmed by the chaos of files cluttering your desktop? Fear no mor
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
+      git clone https://github.com/yourusername/file-organizer.git
 2. **Navigate to the Directory**
    ```bash
-    cd file-organizer
+      cd file-organizer
 3.  **Run the Script**
-   ```bash
-   python organizer.py
+    ```bash
+      python organizer.py
+
+### Manual Download
+- **Download the Script**: Save the following Python script to a file named organizer.py.
+- 
+
+  
 
 
-###
 
