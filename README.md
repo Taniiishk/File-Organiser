@@ -40,6 +40,7 @@ Ever felt overwhelmed by the chaos of files cluttering your desktop? Fear no mor
 ### Manual Download
 - **Download the Script**: Save the following Python script to a file named organizer.py.
 - save the file at location where you want Organized files.
+- Run the Python File.
 
   
 
